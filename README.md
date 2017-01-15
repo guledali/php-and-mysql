@@ -1,2 +1,2 @@
-# php-and-mysql
+# php-mysql
 Learning php and mysql
